@@ -1,3 +1,8 @@
+I built CCCPushManager as a way to send push notifications for my new
+app [Letters - a game about spelling
+words](https://itunes.apple.com/us/app/letters-game-about-spelling/id823334911?ls=1&mt=8). Please
+check it out!
+
 # CCCPushManager
 
 A client reference implementation for
